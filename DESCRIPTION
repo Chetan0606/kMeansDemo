@@ -1,0 +1,12 @@
+Package: kMeansDemo
+Type: Package
+Title: kMeans algorithm demo
+Version: 2023.10.26
+Author: Chetan Sunku
+Maintainer: Chetan Sunku <cs3567@nau.edu>
+Description: kMeans C++ code in an R package.
+License: GPL-3
+LinkingTo: Rcpp
+Imports: Rcpp, rlang (>= 1.1.1)
+RoxygenNote: 7.2.3
+
